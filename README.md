@@ -78,7 +78,7 @@ Customers who travel frequently or have higher income are more likely to buy tra
 🚀 How to Run
 
 Clone the repository
-git clone https://github.com//TRAVEL-INSURANCE-PREDICTION
+git clone https://github.com/Prahadheesh26/TRAVEL-INSURANCE-PREDICTION
 .git cd travel-insurance-prediction
 
 Install dependencies
